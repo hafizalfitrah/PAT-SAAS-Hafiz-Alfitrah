@@ -97,7 +97,7 @@ const MainContent = () => {
           <p>pada hari ini siswa sedang di datangkan tamu dari luar yang mengajarkan mereka terkait IOT</p>
         </Col>
         <Col md={4} rowSpan={3} classname="poster mx-auto embed-responsive-item" allowFullScreen>
-          <Image src="https://jernih.co/wp-content/uploads/AR-15.jpg" thumbnail />
+          <Image src="https://smktibazma.sch.id/static/media/r_kelas.b550b814ba15f4fff81a.jpg" thumbnail />
         </Col>
       </Row>
       <Row>
@@ -116,7 +116,7 @@ const MainContent = () => {
           <p>siswa smk ti bazma memperingati hari ikebangkitan nasional</p>
         </Col>
         <Col md={4} rowSpan={3} classname="poster mx-auto embed-responsive-item" allowFullScreen>
-          <Image src="https://jernih.co/wp-content/uploads/AR-15.jpg" thumbnail />
+          <Image src="https://smktibazma.sch.id/static/media/r_kelas.b550b814ba15f4fff81a.jpg" thumbnail />
         </Col>
       </Row>
       <br></br>
@@ -136,7 +136,7 @@ const MainContent = () => {
           <p>calon-calon siswa terbaik dipilih melalui forum ini</p>
         </Col>
         <Col md={4} rowSpan={3} classname="poster mx-auto embed-responsive-item" allowFullScreen>
-          <Image src="https://jernih.co/wp-content/uploads/AR-15.jpg" thumbnail />
+          <Image src="https://smktibazma.sch.id/static/media/r_kelas.b550b814ba15f4fff81a.jpg" thumbnail />
         </Col>
       </Row>
       <Row className="mt-5">
