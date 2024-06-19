@@ -3,9 +3,9 @@ import { Container } from 'react-bootstrap';
 
 const Footer = () => {
   return (
-    <footer className="text-center py-4">
+    <footer className="bg-secondary text-light text-center py-4">
       <Container>
-        <p>Copyright 2024 - NamaLembaga</p>
+        <p>&copy; 2024 - NamaLembaga</p>
       </Container>
     </footer>
   );
